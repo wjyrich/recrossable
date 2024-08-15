@@ -1,0 +1,11 @@
+[Desktop Entry]
+Categories=Accessibility;Qt;Utility;
+Exec=recrossable
+Name=recrossable
+Name[zh_CN]=recrossable
+Icon=recrossable
+StartupNotify=false
+Terminal=false
+Type=Application
+GenericName=recrossable
+Version=1.0
